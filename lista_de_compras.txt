@@ -1,6 +1,6 @@
 Lista de compras para celebrar el Funeral de FRANCISCO
 
-Requerimientos
+Comida
 - Carne de Res
 - Longaniza
 - Chistorra
@@ -12,4 +12,27 @@ Requerimientos
 - Costilla
 - Tortillas
 - Queso
+
+BEbidas
+- Agua de Jamaica
+- Refrescos
+- Cerveza
+- Vodka
+- Tequila
+- Bacardi
+
+Extras
+- Hielos
 - Salsa
+- Chiles de amor
+- Carbon
+- Brasero / Parrilla
+- Papas Fritas
+- Bocinas para musica
+
+Lugar
+Casa de René
+13:00 hrs
+# FIXME:
+# TODO: Resolver este problema
+¿Habrá sillas o a Banquetazo?
